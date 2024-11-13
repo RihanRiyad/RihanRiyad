@@ -11,9 +11,9 @@ function cancel(){
 // Typewriter Effect
 
 const texts = [
-    "CYBERSECURITY ANALYST",
+    "IT",
     "/",
-    "IT SYSTEMS ANALYSTS",
+    "Cybersecurity Specialists",
 ]
 
 let speed  =100;
