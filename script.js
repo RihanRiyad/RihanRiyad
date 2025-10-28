@@ -11,9 +11,9 @@ function cancel(){
 // Typewriter Effect
 
 const texts = [
-    "IT",
+    "ERP Solutions",
     "/",
-    "CyberSecurity Specialists",
+    "CyberSecurity Analyst",
 ]
 
 let speed  =100;
@@ -46,3 +46,4 @@ function eraseText(){
 }
 
 window.onload = typeWriter
+
